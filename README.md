@@ -97,7 +97,9 @@ plt.show()
 
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+<img src="ex6 output 1.png" alt="Output" width="500">
+
+<img src="ex6 output 2.png" alt="Output" width="500">
 
 
 ## Result:
